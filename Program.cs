@@ -14,8 +14,11 @@ namespace Git_projekt
 
             Console.WriteLine("lololoshka");
 
+            Console.WriteLine("Hello GitHub");
+
+            Console.WriteLine("Branch2");
+
             Console.WriteLine("U are in Main");
-            
         }
     }
 }
