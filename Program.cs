@@ -13,6 +13,9 @@ namespace Git_projekt
             Console.WriteLine("Hello Git");
 
             Console.WriteLine("lololoshka");
+
+            Console.WriteLine("U are in Main");
+            
         }
     }
 }
