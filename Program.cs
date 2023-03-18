@@ -13,6 +13,10 @@ namespace Git_projekt
             Console.WriteLine("Hello Git");
 
             Console.WriteLine("lololoshka");
+
+            Console.WriteLine("Hello GitHub");
+
+            Console.WriteLine("Branch2");
         }
     }
 }
